@@ -1,0 +1,19 @@
+{
+      "islami":"Islami",
+      "quran":"Quran",
+      "hadeth":"Hadeth",
+      "sebha":"Sebha",
+      "settings":"Settings",
+      "mode":"Mode",
+      "darkMode":"DarkMode",
+      "lihtMode":"LightMode",
+      "language":" language"  ,
+      "english":"English",
+      "arabic":" Arabic"  ,
+      "radio":"Radio",
+      "ayat_count": "Number of Ayat",
+      "tasbeeh_count": "Tasbeeh Count",
+      "sura": "Sura "
+
+      
+}

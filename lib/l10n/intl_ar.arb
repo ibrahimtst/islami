@@ -1,0 +1,17 @@
+{
+      "islami":"إسلامي" ,
+      "quran":"القرأن",
+      "hadeth":"الحديث",
+      "sebha":"السبحة",
+      "settings":"الاعدادت",
+      "mode":"المظهر "  ,
+      "darkMode":"مظهر داكن"  ,
+      "lihtMode":"مظهر فاتح",
+      "language":" اللغة"  ,
+      "english":"الانجليزية",
+      "arabic":" العربية"  ,
+      "radio":"الراديو" , 
+       "ayat_count": "عدد الايات",
+      "tasbeeh_count": "عدد التسبيحات",
+      "sura": " السور"
+}
